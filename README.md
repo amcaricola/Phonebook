@@ -1,6 +1,4 @@
-# Exercises-3.1.-3.10 from 'fullstackopen.com'
-
-Deployed Web: [https://phonebook-li3i.onrender.com](https://phonebook-li3i.onrender.com)
+# ejercicios-3.1.-3.10
 
 To install dependencies:
 
